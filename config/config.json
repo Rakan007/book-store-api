@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "giankt28",
+    "database": "book_store_api_1",
+    "host": "localhost",
+    "port": "5986",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "giankt28",
+    "database": "book_store_api_1",
+    "host": "localhost",
+    "port": "5986",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "giankt28",
+    "database": "book_store_api_1",
+    "host": "localhost",
+    "port": "5986",
+    "dialect": "postgres"
+  }
+}
